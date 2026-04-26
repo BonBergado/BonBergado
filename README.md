@@ -67,8 +67,7 @@ My interest lies in the gaps between disciplines — designing systems that are 
 ⬜  AI Security Path
 ```
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-bonbergado-red)](https://tryhackme.com/p/bonbergado)
-<br>![THM Badge](https://img.shields.io/badge/TryHackMe-bonbergado-red?logo=tryhackme)<br>
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-bonbergado-red?logo=tryhackme)](https://tryhackme.com/p/bonbergado)
 
 ---
 
