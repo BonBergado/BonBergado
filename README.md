@@ -16,7 +16,7 @@
 
 ## About
 
-I'm a 3rd year BSCpE student at TIP Manila specializing in **Human-Computer Interaction** — with a focus on Unity/VR, Natural Language Processing, and Human-Robot Interaction. Alongside my HCI work, I'm developing practical skills in **purple team cybersecurity** and exploring **bioinformatics** and **computational psychology** as convergence areas.
+I'm a 3rd year BSCpE student at TIP Quezon City specializing in **Human-Computer Interaction** — with a focus on Unity/VR, Natural Language Processing, and Human-Robot Interaction. Alongside my HCI work, I'm developing practical skills in **purple team cybersecurity** and exploring **bioinformatics** and **computational psychology** as convergence areas.
 
 My interest lies in the gaps between disciplines — designing systems that are both technically sound and genuinely usable by humans.
 
@@ -147,6 +147,6 @@ The intersections I care about most:
 
 <div align="center">
 
-*BSCpE 2018 Curriculum · Technological Institute of the Philippines · Manila*
+*BSCpE 2018 Curriculum · Technological Institute of the Philippines · Quezon City*
 
 </div>
