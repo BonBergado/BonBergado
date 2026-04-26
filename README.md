@@ -68,6 +68,7 @@ My interest lies in the gaps between disciplines — designing systems that are 
 ```
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-bonbergado-red)](https://tryhackme.com/p/bonbergado)
+![THM Stats](https://tryhackme-badges.s3.amazonaws.com/USERNAME.png)
 
 ---
 
@@ -140,7 +141,7 @@ The intersections I care about most:
 - 🔐 Working through **TryHackMe Security 101** path
 - 🤖 Building an **NLP phishing email classifier** (Python · HuggingFace)
 - 📚 Reading HRI literature on trust and affect measurement
-- 🎯 Target: **eJPT certification** by end of 2025
+- 🎯 Target: **eJPT certification** by end of 2028
 
 ---
 
