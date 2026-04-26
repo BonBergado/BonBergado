@@ -68,7 +68,7 @@ My interest lies in the gaps between disciplines — designing systems that are 
 ```
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-bonbergado-red)](https://tryhackme.com/p/bonbergado)
-![THM Stats](https://tryhackme-badges.s3.amazonaws.com/USERNAME.png)
+<br>![THM Stats](https://tryhackme-badges.s3.amazonaws.com/bonbergado.png)<br>
 
 ---
 
