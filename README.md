@@ -6,8 +6,8 @@
 
 *Building at the intersection of human behavior, intelligent systems, and security.*
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/KizukiShiroyama)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bon-bennet-bergado-496906324/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qbbbbergado@tip.edu.ph)
 
 </div>
@@ -16,9 +16,9 @@
 
 ## About
 
-I'm a 3rd year BSCpE student at TIP Quezon City specializing in **Human-Computer Interaction** — with a focus on Unity/VR, Natural Language Processing, and Human-Robot Interaction. Alongside my HCI work, I'm developing practical skills in **purple team cybersecurity** and exploring **bioinformatics** and **computational psychology** as convergence areas.
+I'm a 3rd year BSCpE student at TIP Quezon City specializing in **Human-Computer Interaction** - with a focus on Unity/VR, Natural Language Processing, and Human-Robot Interaction. Alongside my HCI work, I'm developing practical skills in **purple team cybersecurity** and exploring **bioinformatics** and **computational psychology** as convergence areas.
 
-My interest lies in the gaps between disciplines — designing systems that are both technically sound and genuinely usable by humans.
+My interest lies in the gaps between disciplines such as designing systems that are both technically sound and genuinely usable by humans.
 
 ---
 
@@ -28,7 +28,7 @@ My interest lies in the gaps between disciplines — designing systems that are 
 |--------|-------|--------|
 | CPE 411 | Unity / VR / HCI | ✅ Complete |
 | CPE 412 | Natural Language Processing | ✅ Complete |
-| CPE 413 | Human-Robot Interaction | ⏳ In Progress |
+| CPE 413 | Human-Robot Interaction | ✅ Complete |
 
 ---
 
@@ -67,7 +67,7 @@ My interest lies in the gaps between disciplines — designing systems that are 
 ⬜  AI Security Path
 ```
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-bonbergado-red?logo=tryhackme)](https://tryhackme.com/p/bonbergado)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-bonbergado-red?logo=tryhackme)](https://tryhackme.com/p/KizukiShiroyama)
 
 ---
 
@@ -82,9 +82,9 @@ AI Security  ──────────────────────�
 ```
 
 The intersections I care about most:
-- **Usable Security** — why humans fail at security, and how to design systems that account for that
-- **BioNLP** — applying NLP pipelines to clinical and biological text
-- **HRI + Affective Computing** — measuring trust and affect in human-robot interaction
+- **Usable Security** - why humans fail at security, and how to design systems that account for that
+- **BioNLP** - applying NLP pipelines to clinical and biological text
+- **HRI + Affective Computing** - measuring trust and affect in human-robot interaction
 
 ---
 
@@ -94,7 +94,7 @@ The intersections I care about most:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++ Badge](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **HCI & AI Tools**
